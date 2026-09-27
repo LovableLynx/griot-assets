@@ -1,5 +1,5 @@
-﻿# Griot assets
+﻿# Echoma assets
 
-Pictures for the Griot / Mama Itan companion prototype (DevFest Ibadan 2026).
+Pictures for the Echoma companion prototype (DevFest Ibadan 2026).
 
-- `mama.png` - the companion character, designed with Google Gemini.
+- `mama.png` - Mama, the companion character, designed with Google Gemini.
